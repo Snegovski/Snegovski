@@ -3,15 +3,19 @@
 ![Big Boss](https://i.pinimg.com/originals/97/8c/80/978c8073653e6b36de0117f03a56925b.gif)
 ## 📡 Frequencies
 <div align="left">
+  <!--
   <a href="https://www.linkedin.com/in/maxim-babayan-429181273/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  -->
   <a href="https:https://www.instagram.com/_snegovski_//" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=004400&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=3e4c26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <!--
   <a href="t.me/baduser" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  -->
 </div>
 
 ## 🌲 In the Heart of the Wilderness
