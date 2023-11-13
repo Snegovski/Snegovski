@@ -23,14 +23,14 @@ Welcome to my covert operation base. I'm Snegovski, a seasoned code warrior with
 
 - **Codename:** Snegovski
 - **Affiliation:** 42 Abu Dhabi
-- **Role:** C-Coder, Editor and Novelist
-- **Specialty:** Literature 
+- **Role:** C-Coder
+- **Specialty:** Code sabotage
 
 ## 🛠️ Arsenal
 
-- **Primary Weapon:** C
+- **Primary Weapon:** C, further assests under process of acquirement...
 - **Camouflage Suit:** Under further study...
-- **Tactical Gear:** Code sabatoage
+- **Tactical Gear:** C
 
 ## 🚁 Infiltration Points
 
