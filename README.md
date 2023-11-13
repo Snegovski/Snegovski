@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 
-  <a href="https://www.youtube.com/watch?v=xm3YgoEiEDc" target="_blank">
+  <a href="https://youtu.be/ZUpFocJ7f9Q?t=5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=3e4c26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/watch?v=xm3YgoEiEDc" target="_blank">
+  <a href="https://youtu.be/D1iJpAIwgrc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
