@@ -43,7 +43,7 @@ Welcome to my covert operation base. I'm Snegovski, a seasoned code warrior with
 
 Explore my repositories for more covert operations!
 
-## **Secure Line:** [Your Website](link-to-website)
+## **Secure Line:** [Your Website](https://casildian.blogspot.com/)
 
 Feel free to contact me for joint missions or intel exchange. Remember, in the world of coding, it's survival of the fittest.
 
